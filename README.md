@@ -1,4 +1,4 @@
-# Advanced Fire HLS Player. Multi Audio Video Stream Script
+# Advanced Fire HLS Video Player. Multi Audio Video Stream Script
 
 Video Streaming Script solutions for Movie & Series sites.
 
