@@ -1,7 +1,9 @@
 # firevideoplayer
 Video Streaming Script solutions for Movie &amp; Series sites.
 
-Please visit our website. firevideoplayer.com
+Please visit our website. https://firevideoplayer.com/
+
+Advanced Fire HLS Player
 
  [ Software Introduction ]
 
@@ -159,3 +161,6 @@ Password: 123456
 Telegram: https://t.me/tterdgn (@tterdgn)
 
 Skype: https://join.skype.com/invite/f3emV1x8TrKa (neronsilence)
+
+Google Drive HLS Player. OK.RU HLS Player.
+
